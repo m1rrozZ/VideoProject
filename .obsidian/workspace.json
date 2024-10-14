@@ -1,0 +1,154 @@
+{
+  "main": {
+    "id": "b4c6bc33b27eb90f",
+    "type": "split",
+    "children": [
+      {
+        "id": "7a34525ba264168f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "35b823868bb7f9ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Scenary/Ideas and conception.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "80241e90f0cfe5be",
+    "type": "split",
+    "children": [
+      {
+        "id": "67b136d10b83cb27",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8cf6cf9db69169b6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d20339def6d3b4df",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4183d47721f79647",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "507c66d1a3cff2a3",
+    "type": "split",
+    "children": [
+      {
+        "id": "d464eb17062fefd0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fab0a65b5b411f8b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Scenary/Ideas and conception.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2251e2f226b230b5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Scenary/Ideas and conception.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d7a96676d354962d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "bca6e71a29bc3d6d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Scenary/Ideas and conception.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "35b823868bb7f9ee",
+  "lastOpenFiles": [
+    "Scenary/Basic-Scenary.md",
+    "Scenary/Addinational-Scenary (for edits) .md"
+  ]
+}
